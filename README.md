@@ -17,4 +17,4 @@ discussing Python, exploring my repositories, or engaging in a casual chat, feel
 
 🎀Socials:
 -
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Drishti-m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-m-623675236)
