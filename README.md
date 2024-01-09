@@ -1,6 +1,6 @@
 ## ☄️Hello, I am Drishti.
 
-![Alt](https://i.pinimg.com/564x/9d/81/4e/9d814ef0cf767842aa560d683e0f549c.jpg)
+![Alt](girl.gif)
 
 
 👾About me:
